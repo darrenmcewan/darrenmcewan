@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate learner with a work ethic with an interest in data driven results.
+I am a passionate learner with a hard work ethic and an interest in data driven results.
 
 Likes: Python, Web Scraping, Data Visualization  
 

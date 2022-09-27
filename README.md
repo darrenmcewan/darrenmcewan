@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## Contact me
 
-[Email](darren@mcewan.me) | [Linkedin](https://www.linkedin.com/in/darren-mcewan-13198a109/)
+[Email](mailto:darren@mcewan.me) | [Linkedin](https://www.linkedin.com/in/darren-mcewan-13198a109/)

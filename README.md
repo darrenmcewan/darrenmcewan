@@ -2,8 +2,10 @@
 
 I am a passionate learner with a work ethic with an interest in data driven results.
 
-Likes: Python, Web Scraping, Data Visualization
+Likes: Python, Web Scraping, Data Visualization  
+
 Strengths: Regression and Classification, Prediction, Time Series Analysis, SQL 
+
 Learning: Data Engineering, Deep Learning, Front End Development
 
 

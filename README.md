@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darren McEwan</h1>
-<h3 align="center">I am a passionate learner with a hard work ethic and an interest in data driven results.</h3>
+<h1 align="center">I'm Darren McEwan</h1>
 
 
 - 🔭 My strengths are  **Python, Web Scraping, Data Visualization**
